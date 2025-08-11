@@ -16,7 +16,7 @@ Dijkstra’s algorithm runs and returns shortest path: [1, 4, 7, 9].
 Map returns blue route.
 
 # Technology used
-Python
-Algorithm	- Dijkstra
-heapq
-MatplotLib
+- Python
+- Algorithm	- Dijkstra
+- heapq
+- MatplotLib
