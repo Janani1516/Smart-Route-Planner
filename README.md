@@ -1,5 +1,5 @@
 # Smart-Route-Planner
-A web-based interactive map application to find the shortest route between two points using Dijkstra's Algorithm and matplotlib for visulaization.
+Developed an interactive map application to find the shortest route between two points using Dijkstra's Algorithm and matplotlib for visulaization.
 
 # Features
 📍 Clickable interactive map with custom nodes and roads
